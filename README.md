@@ -1,5 +1,5 @@
 # Linux_Project
----
+
 ## 프로젝트 소개
 
 - Shell Programming으로 교수님께서 주신 화면 및 기능을 구현하는 과제입니다.
